@@ -15,7 +15,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # User setting
-owner: Bengt Wahlgren
+owner: Restaurera Sverige AB
 email: Bengt.Wahlgren@gmail.com
 facebook_username:
 twitter_username: restaurera
